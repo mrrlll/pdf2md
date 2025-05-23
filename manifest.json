@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-mistral-pdf2md",
+	"name": "PDF to Markdown (Mistral OCR)",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "Convert PDF files to Markdown using Mistral OCR directly from the Obsidian file explorer.",
+	"author": "CharLotte",
+	"authorUrl": "https://github.com/mrrlll",
+	"isDesktopOnly": true
+  }
