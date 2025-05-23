@@ -1,5 +1,5 @@
 {
-	"id": "obsidian-mistral-pdf2md",
+	"id": "mistral-pdf2md",
 	"name": "PDF to Markdown (Mistral OCR)",
 	"version": "1.0.0",
 	"minAppVersion": "1.0.0",
